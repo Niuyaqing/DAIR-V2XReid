@@ -1,6 +1,6 @@
-数据集命名规则：
-以图片0001_0_000305_4.jpg对数据集命名进行解释。
-1. 0001是车辆ID，DAIR-V2XReid一共包含205个ID，所以其ID范围为0001-0205
-2. 0代表车端摄像头，而1代表路端摄像头。
-3. 000305表示从原数据集DAIR_V2X中的000305.jpg中获取。
-4. 4代表车辆的视角为左侧。该数据集一共标注了6个车辆视角，1-6分别表示前部、后部、右侧、左侧、前斜、后斜。
+Rules for dataset naming
+Dataset annotation is on the image name, for example image 0001_0_000305_4.jpg.
+1.0001 denotes the vehicle ID. DAIR-V2XReid contains 205 ids, so its ID ranges from 0001 to 0205
+2. 0 represents the vehicle end camera, and 1 represents the road end camera.
+3. 000305 obtains from the original dataset DAIR-V2X's 000305.jpg.
+4. 4 is a representation of the car's left side. This data collection includes 6 distinct vehicle viewpoints. The numbers 1-6 respectively denote front, rear, right, left, front of oblique, and rear of oblique.
