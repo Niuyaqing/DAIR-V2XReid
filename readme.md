@@ -12,6 +12,7 @@ Dataset annotation is on the image name, for example image 0001_0_000305_4.jpg.
 
 
 The dataset file dependencies are as follows.
+
 ![image](https://github.com/Niuyaqing/DAIR-V2XReid/assets/109131444/9ab6a364-061c-419e-a977-e7d53dd847ad)
 
 
